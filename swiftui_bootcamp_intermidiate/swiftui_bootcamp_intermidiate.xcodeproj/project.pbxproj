@@ -11,6 +11,7 @@
 		6FDF1CA22ACC435700BE5F9C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDF1CA12ACC435700BE5F9C /* ContentView.swift */; };
 		6FDF1CA42ACC435900BE5F9C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FDF1CA32ACC435900BE5F9C /* Assets.xcassets */; };
 		6FDF1CA72ACC435900BE5F9C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FDF1CA62ACC435900BE5F9C /* Preview Assets.xcassets */; };
+		6FDF1CAE2ACC45A400BE5F9C /* LongPressGetureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDF1CAD2ACC45A400BE5F9C /* LongPressGetureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6FDF1CA12ACC435700BE5F9C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6FDF1CA32ACC435900BE5F9C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6FDF1CA62ACC435900BE5F9C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6FDF1CAD2ACC45A400BE5F9C /* LongPressGetureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGetureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				6FDF1C9F2ACC435700BE5F9C /* swiftui_bootcamp_intermidiateApp.swift */,
 				6FDF1CA12ACC435700BE5F9C /* ContentView.swift */,
+				6FDF1CAD2ACC45A400BE5F9C /* LongPressGetureBootcamp.swift */,
 				6FDF1CA32ACC435900BE5F9C /* Assets.xcassets */,
 				6FDF1CA52ACC435900BE5F9C /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6FDF1CA22ACC435700BE5F9C /* ContentView.swift in Sources */,
+				6FDF1CAE2ACC45A400BE5F9C /* LongPressGetureBootcamp.swift in Sources */,
 				6FDF1CA02ACC435700BE5F9C /* swiftui_bootcamp_intermidiateApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
