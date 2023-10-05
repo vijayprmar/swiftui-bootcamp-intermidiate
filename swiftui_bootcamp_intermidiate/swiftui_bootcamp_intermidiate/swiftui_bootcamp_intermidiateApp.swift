@@ -11,7 +11,7 @@ import SwiftUI
 struct swiftui_bootcamp_intermidiateApp: App {
     var body: some Scene {
         WindowGroup {
-            MagnificationGetureBootcamp()
+            DragGestureBootcamp()
         }
     }
 }
